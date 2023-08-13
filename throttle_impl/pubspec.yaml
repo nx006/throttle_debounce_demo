@@ -1,0 +1,7 @@
+name: throttle_impl
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  hash: ^1.0.1
